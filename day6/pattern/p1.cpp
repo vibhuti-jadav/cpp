@@ -6,7 +6,7 @@ int main(){
 
 
 //first
-    for(int i=1;i<=5;i++){
+    for(int i=1;i<=5;i++){                                                                                                                                                                                                                                                                                                                                                                                                             
         for(int j=1;j<=5;j++){
             cout<<"*"<<" ";
         }
@@ -14,7 +14,7 @@ int main(){
     }
     cout<<endl;
 
-    //second
+//second
        for(int i=1;i<=5;i++){
         for(int j=1;j<=5;j++){
             cout<<i<<" ";
@@ -23,7 +23,7 @@ int main(){
     }
     cout<<endl;
 
-    //third
+ //third
 
        for(int i=1;i<=5;i++){
         for(int j=1;j<=5;j++){
@@ -34,4 +34,5 @@ int main(){
     cout<<endl;
 
     return 0;
+
 }
