@@ -101,7 +101,6 @@ int main(){
                         size--;
 
                         cout << "element Deleted successfully...!" << endl;
-
                         cout << "array = [ "; 
                         for(int i=0; i<size; i++){
                             cout << arr[i] << " ";
@@ -121,13 +120,14 @@ int main(){
                         cout << "]";
 
                         cout << endl;
-                
-       
-     
                 break;
             }
 
      }while(choice != 0);
+
+     
+
+    
 
     return 0;
 }
