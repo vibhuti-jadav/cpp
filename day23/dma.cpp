@@ -24,7 +24,7 @@ using namespace std;
             }
 
      }
-
+     
      ~myClass(){
 
         delete[] arr;
