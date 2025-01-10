@@ -35,7 +35,7 @@ class stack
                 cout<<"this stack is a overflow....!"<<endl;
               }
         }
-
+        
         void pop(){
             if(this->top == -1){
                 cout<<"stack is underflow...."<<endl;
@@ -160,11 +160,6 @@ do{
     Stack.view();
         break;
 
-
-
-
-
-    
     default:
         cout << "enter valid choice " << endl;
         break;
